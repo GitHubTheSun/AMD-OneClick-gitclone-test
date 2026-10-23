@@ -1,0 +1,3 @@
+sidecar txt next to clone-smoke.ipynb
+written 2026-10-23 13:34 UTC+08:00
+purpose: check whether clone/open-notebook also pulls this extra file
